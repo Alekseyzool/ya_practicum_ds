@@ -12,4 +12,5 @@
 - `toxic_comments.ipynb` — подготовка текстовых признаков и обучение классификаторов.
 
 ## Быстрый старт
+- Установите зависимости: `pip install -r requirements.txt`.
 - Загрузите `toxic_comments.csv` и выполните ноутбук в Jupyter.
